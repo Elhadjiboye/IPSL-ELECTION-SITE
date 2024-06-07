@@ -1,0 +1,15 @@
+{
+    "name": "boye/mailhog",
+    "autoload": {
+        "psr-4": {
+            "Boye\\Mailhog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Boye",
+            "email": "boyeelhadjiabdou@gmail.com"
+        }
+    ],
+    "require": {}
+}
