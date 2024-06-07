@@ -1,9 +1,9 @@
-# Online E-Voting System for Barangay Election
+# Smart-Vote: Système de Vote En Ligne pour les Élections à l'IPSL (Institut Polytechnique de Saint-Louis)
 
-> This web application was developed using HTML, CSS, JavaScript, PHP, and MySQL. The very goal of this website is to manage barangay election. The users can add positions, candidates, and voters. They can also manage the position of the ballots and see the tally of the votes. AS for the voters, they can log into their account and get an access to the ballot.
+Les utilisateurs peuvent ajouter des postes, des candidats et des électeurs. Ils peuvent également gérer la position des bulletins de vote et voir le décompte des votes. Quant aux électeurs, ils peuvent se connecter à leur compte et accéder au bulletin de vote.
 
-> WireFrame (High Fidelity): *[LINK HERE]()*  
+Cette application Web a été développée à l'aide de HTML, CSS, JavaScript, PHP et MySQL.Smart Vote s'engage à rendre le processus électoral à l'IPSL plus excitant et accessible à tous les membres de notre communauté.
 
-> WireFrame (Low Fidelity):*[LINK HERE]()*  
+Notre plateforme conviviale permet aux étudiants, aux enseignants et au personnel administratif de participer pleinement à la vie démocratique de notre institut. Nous mettons l'accent sur la transparence et offrons des fonctionnalités pour suivre de près le déroulement des élections et vérifier votre vote.
 
-> Website Link: *[E-Voting System Website](https://algofilipinovoting.000webhostapp.com/)*
+   
